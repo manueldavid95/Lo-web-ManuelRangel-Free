@@ -167,7 +167,7 @@ hr {
 .hero {
   width: 100%;
   min-height: 100vh;
-  background-image: url(./assets/hero-mobile.jpg);
+  background-image: url(assets/hero-mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   border: 10px solid var(--white);
@@ -232,7 +232,7 @@ hr {
   }
 
   .hero {
-    background-image: url(./assets/header-img.jpg);
+    background-image: url(assets/header-img.jpg);
     border: 10px solid var(--white);
   }
 
